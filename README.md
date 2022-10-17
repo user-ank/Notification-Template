@@ -7,3 +7,5 @@
 The target of this project is to clone a notification page by using html,css and JS<br>
 
 
+Here is the link of static deployed site 
+https://notification-page-tpc.netlify.app/
